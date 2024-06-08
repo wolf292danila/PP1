@@ -1,0 +1,22 @@
+
+–
+java:S3008"NRename this field "URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜŒ÷Ïüÿÿÿÿ8¤µÜ¸ÿ1J$00582ffc-2a3f-4717-bed4-877331114fe1
+›
+java:S3008"SRename this field "USERNAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¥Èºùÿÿÿÿ8¥µÜ¸ÿ1J$fcc306cf-cc12-4a70-8995-4895252a223d
+–
+java:S3008"SRename this field "PASSWORD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ù‡×8¥µÜ¸ÿ1J$9141b215-52b9-4320-aea3-4ac3c16a55fa
+}
+java:S1118":Add a private constructor to hide the implicit public one.(×¼­Æ8µµÜ¸ÿ1J$60358d95-782c-4d81-b44b-ad660985228c
+Á
+java:S1130"yRemove the declaration of thrown exception 'java.lang.ClassNotFoundException', as it cannot be thrown from method's body.(Ìë÷¼üÿÿÿÿ8ËµÜ¸ÿ1J$9da18bd8-cf73-495f-ad10-7150ca4f91bb
+~	java:S125"<This block of commented-out lines of code should be removed.(•ãèæ8ƒÜŸºÿ1J$83b1a523-a7a2-40c4-923b-6d1d15bf2d41
+
+java:S1128"9Remove this unused import 'jm.task.core.jdbc.model.User'.(õ„­³úÿÿÿÿ8Ö› ºÿ1J$f1552077-42d4-483a-91cd-a9bd0a21f67d
+
+java:S1128"9Remove this unused import 'org.hibernate.SessionFactory'.(ñ¦«¬þÿÿÿÿ8Ö› ºÿ1J$0b897e26-9b8e-4f7f-9f81-9fb0b419edc3
+Ÿ
+java:S1128"WRemove this unused import 'org.hibernate.boot.registry.StandardServiceRegistryBuilder'.(ƒ©¡üøÿÿÿÿ8×› ºÿ1J$c58d6312-7c74-451f-be7c-305820567e74
+
+java:S1128"<Remove this unused import 'org.hibernate.cfg.Configuration'.(ö¬ä8Û› ºÿ1J$3de0436c-0916-43b2-a10b-5d722f830681
+t
+java:S1128"1Remove this unused import 'java.util.Properties'.(¬µŽ²8Ü› ºÿ1J$bd60ce67-8ec4-49d7-b6fb-bd6bcf811cd6
