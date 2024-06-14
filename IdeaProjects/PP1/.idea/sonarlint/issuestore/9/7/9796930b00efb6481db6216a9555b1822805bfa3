@@ -1,0 +1,22 @@
+
+¢
+java:S1104"ZMake sessionFactory a static final constant or non-public and provide accessors if needed.(à”üÿÿÿÿÿ8ñ¸²Ş€2J$59a97fec-1a0f-4084-bd67-35c47ab440dc
+|
+java:S1444"4Make this "public static sessionFactory" field final(à”üÿÿÿÿÿ8ü¸²Ş€2J$ffeeae29-1cf4-4527-b11f-f4c5286bed68
+‘
+java:S1192"IDefine a constant instead of duplicating this literal "postgres" 4 times.(Û¥Èºùÿÿÿÿ8‚¹²Ş€2J$8f656163-c280-48ec-95c2-655ebe299c9b
+–
+java:S3008"NRename this field "URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜŒ÷Ïüÿÿÿÿ8†¹²Ş€2J$9870bfef-7b0b-4b1a-9ff9-7f8cc2df5e44
+›
+java:S3008"SRename this field "USERNAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û¥Èºùÿÿÿÿ8‡¹²Ş€2J$05866a55-5bf4-482d-989f-d2af0890b450
+–
+java:S3008"SRename this field "PASSWORD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ù‡×8‹¹²Ş€2J$a3c7bd01-8c4f-4cb0-b785-ef8230096e61
+}
+java:S1118":Add a private constructor to hide the implicit public one.(×¼­Æ8•¹²Ş€2J$a11cbac8-4b8f-4f14-af4a-6a9e0b80896c
+s
+java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8¢ÊŞ€2J$c5adb968-bf8e-4745-ac60-601cd30ac614
+v
+java:S1128	"3Remove this unused import 'java.sql.DriverManager'.(“£°8„¢ÊŞ€2J$08c74032-9103-4708-afb4-a82fb7812971
+u
+java:S1128
+"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ8ˆ¢ÊŞ€2J$0ee09e87-127b-45a0-a43b-4b7d8da7f8a8
